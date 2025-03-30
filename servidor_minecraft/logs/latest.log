@@ -1005,3 +1005,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 19:57:32.951] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 1d7058f5-de0b-4017-8dae-2d5a18a2320c
 [30Mar2025 19:57:32.953] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 1d7058f5-de0b-4017-8dae-2d5a18a2320c
 [30Mar2025 19:59:15.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPapeador has made the advancement [Very Berry]
+[30Mar2025 20:04:28.397] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thecno662 lost connection: Disconnected
+[30Mar2025 20:04:28.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 left the game
+[30Mar2025 20:04:33.029] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thecno662[/127.130.73.7:44009] logged in with entity id 28195 at (25.19948392762053, 106.0, 69.02005846209713)
+[30Mar2025 20:04:33.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 joined the game
+[30Mar2025 20:05:04.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPapeador has made the advancement [Sweet Dreams]
+[30Mar2025 20:06:25.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElPapeador> :v
+[30Mar2025 20:06:38.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Set the time to 1000]
+[30Mar2025 20:13:14.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Teleported Thecno662 to Rumo_fr3]

@@ -1196,9 +1196,34 @@
     },
     "done": true
   },
+  "cobblemon:obtain_berry": {
+    "criteria": {
+      "check_inv": "2025-03-30 19:59:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-03-30 19:57:49 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/ability_shield": {
+    "criteria": {
+      "has_shield": "2025-03-30 20:05:33 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_all_berries": {
+    "criteria": {
+      "obtain_oran_berry": "2025-03-30 19:59:37 +0000",
+      "obtain_wepear_berry": "2025-03-30 19:59:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-30 20:05:04 +0000"
     },
     "done": true
   },
@@ -1207,6 +1232,12 @@
       "friend_ball": "2025-03-30 19:57:34 +0000"
     },
     "done": false
+  },
+  "cobblemon:recipes/agriculture/mulch_base": {
+    "criteria": {
+      "has_berry": "2025-03-30 19:59:15 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
