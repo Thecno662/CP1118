@@ -1,7 +1,103 @@
 {
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-03-30 19:03:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-03-30 18:58:47 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/heal_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-03-30 18:59:51 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/dive_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-03-30 18:59:51 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/premier_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-03-30 18:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-03-30 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-03-30 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/dream_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-03-30 19:02:11 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/repeat_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-03-30 19:02:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-03-30 19:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-30 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-03-30 19:15:02 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/transportation/apricorn_boat": {
+    "criteria": {
+      "in_water": "2025-03-30 18:59:42 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_base_balls": {
+    "criteria": {
+      "poke_ball": "2025-03-30 18:59:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-03-30 19:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-30 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-03-30 19:03:29 +0000"
     },
     "done": true
   },
@@ -17,9 +113,33 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/moon_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-03-30 18:59:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-30 19:13:44 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/love_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-03-30 18:59:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-03-30 18:56:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-30 19:04:10 +0000"
     },
     "done": true
   },
@@ -35,9 +155,105 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/level_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-03-30 19:02:11 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/held/icy_rock": {
+    "criteria": {
+      "has_stone": "2025-03-30 19:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-30 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-03-30 18:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-30 19:10:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-30 19:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-30 19:18:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-03-30 18:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-03-30 19:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-03-30 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-03-30 18:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-03-30 18:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-30 19:13:44 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:harvest_apricorn": {
+    "criteria": {
+      "check_inv": "2025-03-30 18:59:51 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/safari_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-03-30 18:59:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-30 19:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-03-30 18:59:42 +0000"
     },
     "done": true
   },
@@ -47,9 +263,58 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-03-30 19:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-30 18:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-30 19:13:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-03-30 19:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-03-30 19:04:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-03-30 18:58:51 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/fast_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-03-30 18:59:51 +0000",
+      "has_red_apricorn": "2025-03-30 19:02:11 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:any_plant": {
+    "criteria": {
+      "check_inv": "2025-03-30 18:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-03-30 18:59:42 +0000"
     },
     "done": true
   },
@@ -59,9 +324,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-03-30 19:04:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-03-30 18:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-03-30 19:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-03-30 19:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-30 19:13:40 +0000"
     },
     "done": true
   },
@@ -70,6 +359,42 @@
       "has_planks": "2025-03-30 18:58:51 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-30 19:13:44 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice_using_stone": {
+    "criteria": {
+      "has_ice": "2025-03-30 19:14:55 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/friend_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-03-30 19:02:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-30 19:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-30 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/great_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-03-30 19:02:11 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
@@ -80,6 +405,24 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-03-30 18:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-03-30 19:13:44 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/net_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-03-30 18:59:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-30 19:13:40 +0000"
     },
     "done": true
   },
@@ -95,9 +438,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-30 19:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-03-30 19:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-03-30 19:13:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/park_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-03-30 19:02:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-03-30 19:13:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-30 18:58:51 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice": {
+    "criteria": {
+      "has_the_recipe": "2025-03-30 19:14:55 +0000"
     },
     "done": true
   },
@@ -119,16 +498,91 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-03-30 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/white_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-03-30 18:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-03-30 18:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-30 19:10:52 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_all_balls": {
+    "criteria": {
+      "poke_ball": "2025-03-30 18:59:23 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/luxury_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-03-30 19:02:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-30 19:15:02 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/sport_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-03-30 18:59:51 +0000",
+      "has_red_apricorn": "2025-03-30 19:02:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-03-30 18:58:47 +0000"
     },
     "done": true
   },
+  "cobblemon:craft_poke_ball": {
+    "criteria": {
+      "requirement": "2025-03-30 18:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-03-30 19:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-30 19:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-30 19:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:grove": "2025-03-30 18:56:52 +0000",
-      "minecraft:jagged_peaks": "2025-03-30 18:56:24 +0000"
+      "minecraft:jagged_peaks": "2025-03-30 18:56:24 +0000",
+      "minecraft:forest": "2025-03-30 18:59:37 +0000",
+      "minecraft:plains": "2025-03-30 19:09:33 +0000"
     },
     "done": false
   },
@@ -138,9 +592,106 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-30 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-30 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/timer_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-03-30 18:59:51 +0000",
+      "has_red_apricorn": "2025-03-30 19:02:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-30 19:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2025-03-30 19:10:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-03-30 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-03-30 19:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-30 19:03:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-03-30 18:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-30 19:13:44 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/lure_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-03-30 19:02:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-03-30 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-03-30 19:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-30 19:03:03 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/poke_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-03-30 19:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-03-30 18:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-30 18:59:42 +0000"
     },
     "done": true
   },
