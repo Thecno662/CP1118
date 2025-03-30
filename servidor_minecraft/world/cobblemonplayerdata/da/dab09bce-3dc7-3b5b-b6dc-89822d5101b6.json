@@ -11,9 +11,9 @@
     "totalCaptureCount": 3,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 3,
+    "totalBattleVictoryCount": 6,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 3,
+    "totalPvWBattleVictoryCount": 6,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -26,7 +26,10 @@
     },
     "totalDefeatedCounts": {
       "cobblemon:mudbray": 1,
-      "cobblemon:gimmighoul": 1
+      "cobblemon:gimmighoul": 1,
+      "cobblemon:pidove": 1,
+      "cobblemon:geodude": 1,
+      "cobblemon:golem": 1
     },
     "aspectsCollected": {}
   }

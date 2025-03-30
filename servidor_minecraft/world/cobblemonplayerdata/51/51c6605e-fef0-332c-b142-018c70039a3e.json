@@ -8,7 +8,7 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 1,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
     "totalBattleVictoryCount": 2,
@@ -17,7 +17,9 @@
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
+    "totalTypeCaptureCounts": {
+      "fighting": 1
+    },
     "totalDefeatedCounts": {
       "cobblemon:zubat": 1,
       "cobblemon:rattata": 1
