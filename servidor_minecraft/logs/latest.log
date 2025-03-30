@@ -968,3 +968,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 19:16:59.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Mother Nature's Bounty]
 [30Mar2025 19:20:26.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=135, z=-29} BlockPos{x=0, y=135, z=15}
 [30Mar2025 19:22:27.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Doing my Part]
+[30Mar2025 19:23:32.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Very Berry]
+[30Mar2025 19:23:44.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPapeador has made the advancement [Acquire Hardware]
+[30Mar2025 19:24:21.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPapeador has made the advancement [A New Friend!]
+[30Mar2025 19:26:01.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPapeador has made the advancement [Doing my Part]
+[30Mar2025 19:26:23.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Sweet Dreams]
+[30Mar2025 19:26:45.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Monster Hunter]
+[30Mar2025 19:27:16.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Acquire Hardware]
+[30Mar2025 19:27:29.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thecno662 has made the advancement [Isn't It Iron Pick]
+[30Mar2025 19:28:09.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Teleported ElPapeador to Thecno662]
+[30Mar2025 19:28:09.429] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: a32356db-3ca6-4535-90fe-aef8e843b6ee
+[30Mar2025 19:28:09.430] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: a32356db-3ca6-4535-90fe-aef8e843b6ee
+[30Mar2025 19:28:30.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPapeador has made the advancement [Isn't It Iron Pick]
+[30Mar2025 19:28:39.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPapeador has made the advancement [Suit Up]
+[30Mar2025 19:29:21.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Set the time to 1000]
+[30Mar2025 19:30:20.678] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b27f4be1-992a-42f9-9e7f-efe4974e7359
+[30Mar2025 19:30:20.678] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b27f4be1-992a-42f9-9e7f-efe4974e7359
+[30Mar2025 19:30:40.671] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 61d0a165-5fdf-4c9a-b809-03f0042b5eb2
+[30Mar2025 19:30:40.671] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 61d0a165-5fdf-4c9a-b809-03f0042b5eb2
+[30Mar2025 19:34:10.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rumo_fr3 has made the advancement [Very Berry]
+[30Mar2025 19:40:13.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Set the time to 1000]
+[30Mar2025 19:40:18.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thecno662: Teleported Thecno662 to Rumo_fr3]

@@ -8,7 +8,7 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 2,
+    "totalCaptureCount": 3,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
     "totalBattleVictoryCount": 3,
@@ -20,7 +20,9 @@
     "totalTypeCaptureCounts": {
       "flying": 1,
       "ghost": 1,
-      "poison": 1
+      "poison": 1,
+      "bug": 1,
+      "water": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:mudbray": 1,
